@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/yellow-flowers/browser",
+    "public": "public",
     "ignore": [
       "firebase.json",
       "**/.*",
